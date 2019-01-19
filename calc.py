@@ -12,3 +12,7 @@ def divide(x,y):
 
 def square(x,y):
     pass
+
+
+def divide(x,y):
+    return x/y
